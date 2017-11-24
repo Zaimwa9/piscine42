@@ -1,0 +1,5 @@
+Credentials cache: API:114B5583-6DB6-4860-9C80-4877112AF404
+        Principal: wzaim@42.FR
+
+  Issued                Expires               Principal
+Jul 31 15:25:45 2017  Aug  7 15:24:12 2017  krbtgt/42.FR@42.FR
